@@ -1,5 +1,3 @@
-# FATIHAT_LITA_WEBPAGE_PROJECT_1
-
 # Ladies in Tech Africa Bootcamp Project
 This repository contains a responsive webpage developed as part of the mentorship phase of the Ladies in Tech Africa Bootcamp. The webpage was built using HTML, CSS, and JavaScript and follows a provided UI/UX design.
 
