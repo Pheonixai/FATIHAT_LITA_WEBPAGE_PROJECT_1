@@ -58,3 +58,10 @@ menuIcon.addEventListener("click", ()=>{
     mainSection.className = "transparent";
     mobileMenu.style.display = "block";
 })
+
+const xIcon = document.getElementById('x-icon');
+
+xIcon.addEventListener("click", ()=>{
+    mobileMenu.style.display = "none";
+    mainSection.className = "main";
+})
